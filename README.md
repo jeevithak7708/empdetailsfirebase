@@ -30,8 +30,12 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the DatabaseTable using the firebasedatabase”.
-Developed by: JEEVITHA k
+
+
+Developed by: JEEVITHA K
 Registeration Number : 212225040149
+
+
 
 java program:
 
@@ -322,8 +326,10 @@ XML program:
 
 ## OUTPUT
 
-<img width="386" height="833" alt="Screenshot 2026-10-30 115213" src="https://github.com/user-attachments/assets/58903511-0134-4dfe-9401-e9ef39ae83cd" />
-<img width="1911" height="967" alt="Screenshot 2026-10-30 114857" src="https://github.com/user-attachments/assets/07a7ed6a-5c10-4ebd-9d27-ed9538b6db48" />
+<img width="1912" height="1031" alt="image" src="https://github.com/user-attachments/assets/4982ca5d-5b75-4996-b7b5-0b7327821b95" />
+
+<img width="392" height="825" alt="image" src="https://github.com/user-attachments/assets/fe880962-086f-4f73-8b14-981049e937f4" />
+
 
 
 
